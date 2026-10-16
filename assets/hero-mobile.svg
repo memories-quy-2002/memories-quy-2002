@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="320" viewBox="0 0 680 320" role="img" aria-label="Nguyen Manh Phu Quy — Full-stack Developer">
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1323"/><stop offset=".65" stop-color="#132941"/><stop offset="1" stop-color="#0D233B"/></linearGradient>
+<linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#47DAE7"/><stop offset="1" stop-color="#587FE5"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#167BAB" stop-opacity=".28"/><stop offset="1" stop-color="#167BAB" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8CACCE" stroke-opacity=".065"/></pattern>
+</defs>
+<rect width="680" height="320" rx="18" fill="url(#background)"/>
+<rect width="680" height="320" rx="18" fill="url(#grid)"/>
+<circle cx="575" cy="142" r="171" fill="url(#halo)"/>
+<g fill="#95D8EB" opacity=".45"><circle cx="544" cy="35" r="2"/><circle cx="621" cy="77" r="1.7"/><circle cx="647" cy="252" r="2"/><circle cx="528" cy="266" r="1.4"/><circle cx="596" cy="298" r="2"/></g>
+<g transform="translate(582 150)" fill="none" opacity=".64">
+<circle r="111" stroke="#4B7FAB" stroke-opacity=".45" stroke-width="1.2"/>
+<circle r="88" stroke="url(#orbit)" stroke-width="2"/>
+<circle r="65" stroke="#78C9D5" stroke-opacity=".65" stroke-width="1.6" stroke-dasharray="4 9"/>
+<ellipse rx="119" ry="37" transform="rotate(-26)" stroke="#63A6D2" stroke-opacity=".55" stroke-width="2"/>
+<circle cx="70" cy="-53" r="5" fill="#63DDE6" stroke="none"/>
+<circle r="14" fill="#1E6C8C" stroke="#4CB9D4" stroke-width="2"/>
+</g>
+<rect x="34" y="29" width="8" height="8" rx="2" fill="#52DEDE"/>
+<text x="51" y="39" fill="#9DD5E1" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3">SOFTWARE ENGINEER</text>
+<text x="32" y="125" fill="#F8FBFF" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="800" letter-spacing="-1.9">NGUYEN MANH</text>
+<text x="32" y="194" fill="#F8FBFF" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="800" letter-spacing="-2.4">PHU QUY</text>
+<rect x="34" y="216" width="48" height="4" rx="2" fill="#5BE1E4"/>
+<text x="34" y="268" fill="#68D8E9" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" letter-spacing="1.2">FULL-STACK DEVELOPER</text>
+<rect x=".5" y=".5" width="679" height="319" rx="17.5" fill="none" stroke="#637E9B" stroke-opacity=".24"/>
+</svg>
