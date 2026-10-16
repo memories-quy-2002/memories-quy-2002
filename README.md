@@ -22,8 +22,6 @@ I work with **TypeScript, React, Node.js, and NestJS**. My experience spans fron
 
 I care about **clear architecture, practical trade-offs, meaningful tests, and continuous learning**.
 
-## Tech stack
-
 <p align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/tech-stack-mobile.svg" />
