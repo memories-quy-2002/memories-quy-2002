@@ -6,198 +6,127 @@
 </p>
 
 <p align="center">
-  <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/memories2002/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:manhphuquynguyen@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/memories-quy-2002?tab=repositories">Repositories</a>
+  <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/memories2002/"><strong>LinkedIn ↗</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="mailto:manhphuquynguyen@gmail.com"><strong>Email ↗</strong></a>
 </p>
 
-## At a glance
+<p align="center"><sub>Full-stack development &nbsp; / &nbsp; Backend engineering &nbsp; / &nbsp; Open to opportunities</sub></p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <strong>FULL-STACK</strong><br />
-      <sub>Frontend + backend</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>BACKEND-FOCUSED</strong><br />
-      <sub>APIs + systems</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>HCMUT</strong><br />
-      <sub>Computer Science M.Sc. student</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>OPEN TO WORK</strong><br />
-      <sub>Software engineering roles</sub>
-    </td>
-  </tr>
-</table>
+## A little about me
 
-## About me
+I'm **Nguyen Manh Phu Quy**, a full-stack developer with a backend-focused mindset. I work across interfaces, APIs, and databases to build practical products that are easy to use and maintain.
 
-I'm **Nguyen Manh Phu Quy**, a full-stack software developer with a backend-focused mindset. I enjoy understanding the whole product — from the user interface to the API, data model, and delivery pipeline.
+- **Experience:** Backend-focused work at FPT Software, following frontend development experience at TMA Solutions.
+- **Education:** Currently pursuing a Master's in Computer Science at Ho Chi Minh City University of Technology (HCMUT).
+- **How I work:** Learn fast, communicate clearly, make deliberate trade-offs, and test what matters.
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>What I build</strong><br />
-      <sub>Full-stack web applications that connect thoughtful experiences with dependable backend services.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>How I think</strong><br />
-      <sub>Clear domain boundaries, practical trade-offs, maintainable code, and meaningful tests.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>How I grow</strong><br />
-      <sub>Fast, deliberate learning through hands-on projects, collaboration, and graduate study.</sub>
-    </td>
-  </tr>
-</table>
+## Technologies I use
 
-My experience includes frontend development at **TMA Solutions** and backend-focused engineering at **FPT Software**. I'm currently pursuing a **Master's in Computer Science at HCMUT**.
+**Languages & backend**
 
-## Tech stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" alt="Express" title="Express" width="34" height="34" />
+  <sub>TypeScript · Node.js · NestJS · Express</sub>
+</p>
 
-<table>
-  <tr>
-    <th align="left" valign="middle">Backend & language</th>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" alt="Express" title="Express" height="40" width="40" />
-      <br /><sub>TypeScript · Node.js · NestJS · Express</sub>
-    </td>
-  </tr>
-  <tr>
-    <th align="left" valign="middle">Frontend</th>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" height="40" width="40" />
-      <br /><sub>React · Vite · Tailwind CSS · Redux</sub>
-    </td>
-  </tr>
-  <tr>
-    <th align="left" valign="middle">Data & messaging</th>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" height="40" width="40" />
-      <br /><sub>PostgreSQL · MySQL · Prisma · Redis · Kafka</sub>
-    </td>
-  </tr>
-  <tr>
-    <th align="left" valign="middle">Tools & testing</th>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="40" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" height="40" width="40" />
-      <br /><sub>Docker · Git · GitHub Actions · Playwright</sub>
-    </td>
-  </tr>
-</table>
+**Frontend**
 
-<sub>Technology marks via <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT). Logos belong to their respective owners.</sub>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="34" height="34" />
+  <sub>React · Vite · Tailwind CSS · Redux Toolkit</sub>
+</p>
 
-## Selected projects
+**Data & messaging**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/memories-quy-2002/digital-e-shop"><img src="./assets/projects/digital-e-shop.svg" alt="Digital-E Shop project cover" width="100%" /></a><br />
-      <strong>Digital-E Shop</strong><br />
-      <sub>Electronics commerce with catalog discovery, checkout, order management, and an operations dashboard. Includes inventory and payment workflows.</sub><br /><br />
-      <sub><strong>Stack:</strong> React · TypeScript · NestJS · MySQL · Firebase</sub><br />
-      <a href="https://github.com/memories-quy-2002/digital-e-shop">Source code</a> &nbsp;·&nbsp; <a href="https://digital-e.vercel.app/">Live site</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/memories-quy-2002/Food-recipes"><img src="./assets/projects/food-recipes.svg" alt="Food Recipes project cover" width="100%" /></a><br />
-      <strong>Food Recipes</strong><br />
-      <sub>An integrated cooking workspace: recipe discovery, meal planning, shopping lists, pantry management, and cooking history.</sub><br /><br />
-      <sub><strong>Stack:</strong> React · NestJS · PostgreSQL · Prisma · TanStack Query</sub><br />
-      <a href="https://github.com/memories-quy-2002/Food-recipes">Source code</a> &nbsp;·&nbsp; <a href="https://foodrecipes1.vercel.app/">Live site</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ecoffee.cloud/"><img src="./assets/projects/ecoffee.svg" alt="eCoffee project cover" width="100%" /></a><br />
-      <strong>eCoffee</strong><br />
-      <sub>Coffee franchise supply-chain team project. My backend contributions cover Warehouse, Inventory, Supplier, and Franchise services.</sub><br /><br />
-      <sub><strong>Stack:</strong> NestJS · PostgreSQL · Kafka · gRPC</sub><br />
-      <a href="https://ecoffee.cloud/">Project website</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/projects/cinema-booking.svg" alt="Cinema Booking coursework project cover" width="100%" /><br />
-      <strong>Cinema Booking</strong><br />
-      <sub>A cinema management/coursework project. Its source repository is private and the current codebase remains an early frontend scaffold.</sub><br /><br />
-      <sub><strong>Stack:</strong> React · TypeScript · Vite</sub><br />
-      <sub>Private repository · Early scaffold</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="34" height="34" />
+  <sub>PostgreSQL · MySQL · Prisma · Redis · Kafka</sub>
+</p>
 
-<sub>Featured in priority order. For architecture notes, engineering decisions, and project context, see the <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/">portfolio</a> and linked repositories.</sub>
+**Developer tools**
 
-## Engineering principles
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="34" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="34" height="34" />
+  <sub>Docker · Git · GitHub Actions · Playwright</sub>
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 / Clarity over cleverness</strong><br />
-      <sub>Readable code, explicit responsibilities, and boundaries that are easy to change.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 / Reliability by design</strong><br />
-      <sub>Validate inputs, protect data, and handle failure paths deliberately.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 / Evidence over assumptions</strong><br />
-      <sub>Use focused tests, profiling, and observability to guide engineering decisions.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 / Practical software wins</strong><br />
-      <sub>Choose technology for product needs, not complexity for its own sake.</sub>
-    </td>
-  </tr>
-</table>
+<sub>Technology icons: <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT). All trademarks remain with their respective owners.</sub>
 
-## Current focus
+## Selected work
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>BUILDING</strong><br />
-      <sub>Maintaining and improving my full-stack projects, from UI to API.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>LEARNING</strong><br />
-      <sub>Computer Science at the master's level, backend architecture, and systems design.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>EXPLORING</strong><br />
-      <sub>Distributed systems, observability, and lightweight AI-assisted development.</sub>
-    </td>
-  </tr>
-</table>
+### 01 — Digital-E Shop
+**E-commerce platform · Personal project**
+
+An electronics storefront and admin dashboard covering product discovery, checkout, payment flows, inventory, and order management.
+
+**Stack:** React · TypeScript · NestJS · MySQL · Firebase
+
+**[Source code ↗](https://github.com/memories-quy-2002/digital-e-shop)** &nbsp;·&nbsp; **[Live website ↗](https://digital-e.vercel.app/)**
+
+### 02 — Food Recipes
+**Recipe & meal-planning platform · Personal project**
+
+A cooking workspace for discovering and publishing recipes, planning meals, managing shopping and pantry data, and tracking cooking progress.
+
+**Stack:** React · NestJS · PostgreSQL · Prisma · TanStack Query
+
+**[Source code ↗](https://github.com/memories-quy-2002/Food-recipes)** &nbsp;·&nbsp; **[Live website ↗](https://foodrecipes1.vercel.app/)**
+
+### 03 — eCoffee
+**Coffee franchise supply chain · Team project**
+
+A service-based franchise platform. I contributed to four backend domains: **Warehouse, Inventory, Supplier, and Franchise**.
+
+**Stack:** NestJS · PostgreSQL · Kafka · gRPC
+
+**[Explore project ↗](https://ecoffee.cloud/)**
+
+### 04 — Cinema Booking
+**Cinema management · Coursework / early development**
+
+A cinema booking and management concept. The current GitHub repository is private and its application code remains at an early scaffold stage.
+
+**Stack:** React · TypeScript · Vite
+
+*Private repository · In development*
+
+---
+
+## How I approach engineering
+
+- **Keep it clear.** Favor readable code, explicit ownership, and maintainable boundaries.
+- **Design for reliability.** Validate inputs, protect data, and plan for failures.
+- **Use evidence.** Let tests, profiling, and observability inform decisions.
+- **Stay pragmatic.** Choose the simplest solution that fits the actual requirements.
+
+## Currently focused on
+
+- **Building:** Refining full-stack projects from UI to API and deployment.
+- **Learning:** Backend architecture and deeper computer science through graduate study.
+- **Exploring:** Distributed systems, observability, and lightweight AI-assisted development.
+
+---
 
 ## Let's connect
 
-I'm open to opportunities in **full-stack development, backend engineering, and software engineering**. If you're interested in my work or have an engineering challenge to discuss, I'd be happy to connect.
+I'm open to **full-stack, backend, and software engineering opportunities**. If you'd like to talk about a project, an engineering problem, or a potential role, feel free to reach out.
 
-<p align="center">
-  <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/"><strong>PORTFOLIO</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/memories2002/"><strong>LINKEDIN</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:manhphuquynguyen@gmail.com"><strong>EMAIL</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/memories-quy-2002?tab=repositories"><strong>GITHUB REPOS</strong></a>
-</p>
+**[View my portfolio ↗](https://quy-engineering-portfolio.memories2002.chatgpt.site/)** &nbsp;·&nbsp;
+**[Connect on LinkedIn ↗](https://www.linkedin.com/in/memories2002/)** &nbsp;·&nbsp;
+**[Send an email ↗](mailto:manhphuquynguyen@gmail.com)**
 
-<p align="center"><sub>Thoughtful engineering · Continuous learning · Useful products</sub></p>
+<p align="center"><sub>Thoughtful engineering. Continuous learning.</sub></p>
