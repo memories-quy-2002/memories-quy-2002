@@ -12,14 +12,51 @@
   <a href="https://github.com/memories-quy-2002?tab=repositories">Repositories</a>
 </p>
 
+## At a glance
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <strong>FULL-STACK</strong><br />
+      <sub>Frontend + backend</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>BACKEND-FOCUSED</strong><br />
+      <sub>APIs + systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>HCMUT</strong><br />
+      <sub>Computer Science M.Sc. student</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>OPEN TO WORK</strong><br />
+      <sub>Software engineering roles</sub>
+    </td>
+  </tr>
+</table>
+
 ## About me
 
-I'm **Nguyen Manh Phu Quy**, a full-stack developer with a strong interest in backend engineering, system design, and practical product development. I build across the stack using **TypeScript, React, Node.js, and NestJS**, with a focus on maintainable architecture and reliable user experiences.
+I'm **Nguyen Manh Phu Quy**, a full-stack software developer with a backend-focused mindset. I enjoy understanding the whole product — from the user interface to the API, data model, and delivery pipeline.
 
-- **Experience:** Building backend engineering foundations at **FPT Software**, following earlier frontend development experience at **TMA Solutions**.
-- **Education:** Pursuing a **Master's in Computer Science** at **Ho Chi Minh City University of Technology (HCMUT)**.
-- **Approach:** Learn quickly, understand the trade-offs, write clear code, and test what matters.
-- **Interests:** APIs, distributed systems, application architecture, developer tooling, and end-to-end product development.
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>What I build</strong><br />
+      <sub>Full-stack web applications that connect thoughtful experiences with dependable backend services.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>How I think</strong><br />
+      <sub>Clear domain boundaries, practical trade-offs, maintainable code, and meaningful tests.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>How I grow</strong><br />
+      <sub>Fast, deliberate learning through hands-on projects, collaboration, and graduate study.</sub>
+    </td>
+  </tr>
+</table>
+
+My experience includes frontend development at **TMA Solutions** and backend-focused engineering at **FPT Software**. I'm currently pursuing a **Master's in Computer Science at HCMUT**.
 
 ## Tech stack
 
@@ -71,26 +108,96 @@ I'm **Nguyen Manh Phu Quy**, a full-stack developer with a strong interest in ba
 
 ## Selected projects
 
-| Project | What I built | Technology | Explore |
-| --- | --- | --- | --- |
-| **Digital-E Shop** | Full-stack electronics storefront and operations dashboard with product discovery, carts, checkout, payment workflows, and inventory management. | React · TypeScript · NestJS · MySQL · Firebase | [Code](https://github.com/memories-quy-2002/digital-e-shop) · [Live](https://digital-e.vercel.app/) |
-| **Food Recipes** | Recipe discovery and publishing platform with meal planning, shopping lists, pantry management, and cooking history. | React · NestJS · PostgreSQL · Prisma · TanStack Query | [Code](https://github.com/memories-quy-2002/Food-recipes) · [Live](https://foodrecipes1.vercel.app/) |
-| **eCoffee** | Coffee franchise management team project. I contributed to the **Warehouse, Inventory, Supplier, and Franchise** backend services. | NestJS · PostgreSQL · Kafka · gRPC | [Product](https://ecoffee.cloud/) |
-| **Cinema Booking** | Cinema booking and management concept; its current GitHub repository is private and still at an early scaffold stage. | React · TypeScript · Vite | *Private / In development* |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/memories-quy-2002/digital-e-shop"><img src="./assets/projects/digital-e-shop.svg" alt="Digital-E Shop project cover" width="100%" /></a><br />
+      <strong>Digital-E Shop</strong><br />
+      <sub>Electronics commerce with catalog discovery, checkout, order management, and an operations dashboard. Includes inventory and payment workflows.</sub><br /><br />
+      <sub><strong>Stack:</strong> React · TypeScript · NestJS · MySQL · Firebase</sub><br />
+      <a href="https://github.com/memories-quy-2002/digital-e-shop">Source code</a> &nbsp;·&nbsp; <a href="https://digital-e.vercel.app/">Live site</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/memories-quy-2002/Food-recipes"><img src="./assets/projects/food-recipes.svg" alt="Food Recipes project cover" width="100%" /></a><br />
+      <strong>Food Recipes</strong><br />
+      <sub>An integrated cooking workspace: recipe discovery, meal planning, shopping lists, pantry management, and cooking history.</sub><br /><br />
+      <sub><strong>Stack:</strong> React · NestJS · PostgreSQL · Prisma · TanStack Query</sub><br />
+      <a href="https://github.com/memories-quy-2002/Food-recipes">Source code</a> &nbsp;·&nbsp; <a href="https://foodrecipes1.vercel.app/">Live site</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ecoffee.cloud/"><img src="./assets/projects/ecoffee.svg" alt="eCoffee project cover" width="100%" /></a><br />
+      <strong>eCoffee</strong><br />
+      <sub>Coffee franchise supply-chain team project. My backend contributions cover Warehouse, Inventory, Supplier, and Franchise services.</sub><br /><br />
+      <sub><strong>Stack:</strong> NestJS · PostgreSQL · Kafka · gRPC</sub><br />
+      <a href="https://ecoffee.cloud/">Project website</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/projects/cinema-booking.svg" alt="Cinema Booking coursework project cover" width="100%" /><br />
+      <strong>Cinema Booking</strong><br />
+      <sub>A cinema management/coursework project. Its source repository is private and the current codebase remains an early frontend scaffold.</sub><br /><br />
+      <sub><strong>Stack:</strong> React · TypeScript · Vite</sub><br />
+      <sub>Private repository · Early scaffold</sub>
+    </td>
+  </tr>
+</table>
 
-> For architecture decisions and project context, explore the repositories or browse my [portfolio](https://quy-engineering-portfolio.memories2002.chatgpt.site/).
+<sub>Featured in priority order. For architecture notes, engineering decisions, and project context, see the <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/">portfolio</a> and linked repositories.</sub>
 
-## Currently exploring
+## Engineering principles
 
-- **Backend architecture:** API design, domain boundaries, security, and maintainable services.
-- **Distributed systems:** Messaging, consistency, observability, and failure handling.
-- **Software delivery:** Meaningful tests, CI/CD, and practical automation.
-- **Research & learning:** Deepening my computer science foundations through graduate study.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / Clarity over cleverness</strong><br />
+      <sub>Readable code, explicit responsibilities, and boundaries that are easy to change.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / Reliability by design</strong><br />
+      <sub>Validate inputs, protect data, and handle failure paths deliberately.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / Evidence over assumptions</strong><br />
+      <sub>Use focused tests, profiling, and observability to guide engineering decisions.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 / Practical software wins</strong><br />
+      <sub>Choose technology for product needs, not complexity for its own sake.</sub>
+    </td>
+  </tr>
+</table>
+
+## Current focus
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>BUILDING</strong><br />
+      <sub>Maintaining and improving my full-stack projects, from UI to API.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>LEARNING</strong><br />
+      <sub>Computer Science at the master's level, backend architecture, and systems design.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>EXPLORING</strong><br />
+      <sub>Distributed systems, observability, and lightweight AI-assisted development.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Let's connect
 
-I'm interested in **full-stack, backend, and software engineering opportunities**. Feel free to reach out about engineering challenges, projects, or collaboration.
+I'm open to opportunities in **full-stack development, backend engineering, and software engineering**. If you're interested in my work or have an engineering challenge to discuss, I'd be happy to connect.
 
-**[Portfolio](https://quy-engineering-portfolio.memories2002.chatgpt.site/)** · **[LinkedIn](https://www.linkedin.com/in/memories2002/)** · **[Email](mailto:manhphuquynguyen@gmail.com)**
+<p align="center">
+  <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/"><strong>PORTFOLIO</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/memories2002/"><strong>LINKEDIN</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:manhphuquynguyen@gmail.com"><strong>EMAIL</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/memories-quy-2002?tab=repositories"><strong>GITHUB REPOS</strong></a>
+</p>
 
-<p align="center"><sub>Thoughtful engineering. Continuous learning.</sub></p>
+<p align="center"><sub>Thoughtful engineering · Continuous learning · Useful products</sub></p>
