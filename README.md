@@ -134,11 +134,11 @@ My experience includes frontend development at **TMA Solutions** and backend-foc
       <a href="https://ecoffee.cloud/">Project website</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/"><img src="./assets/projects/cinema-booking.svg" alt="Cinema Booking project cover" width="100%" /></a><br />
+      <img src="./assets/projects/cinema-booking.svg" alt="Cinema Booking coursework project cover" width="100%" /><br />
       <strong>Cinema Booking</strong><br />
       <sub>A cinema management/coursework project. Its source repository is private and the current codebase remains an early frontend scaffold.</sub><br /><br />
       <sub><strong>Stack:</strong> React · TypeScript · Vite</sub><br />
-      <a href="https://quy-engineering-portfolio.memories2002.chatgpt.site/">View portfolio</a>
+      <sub>Private repository · Early scaffold</sub>
     </td>
   </tr>
 </table>
