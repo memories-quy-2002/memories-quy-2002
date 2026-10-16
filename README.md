@@ -24,23 +24,105 @@ I care about **clear architecture, practical trade-offs, meaningful tests, and c
 
 ## Tech stack
 
-**Languages & backend**
+<p align="center"><sub>Languages, frameworks, and tools I use across the stack.</sub></p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="38" height="38" /> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/express-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" alt="Express" title="Express" width="38" height="38" /></picture></p>
+<p align="center"><strong>Languages &amp; backend</strong></p>
 
-**Frontend**
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="46" height="46" /><br />
+      <sub><strong>TypeScript</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="46" height="46" /><br />
+      <sub><strong>Node.js</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="46" height="46" /><br />
+      <sub><strong>NestJS</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/express-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" alt="Express" title="Express" width="46" height="46" /></picture><br />
+      <sub><strong>Express</strong></sub>
+    </td>
+  </tr>
+</table>
 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" alt="Redux Toolkit" title="Redux Toolkit" width="38" height="38" /></p>
+<p align="center"><strong>Frontend</strong></p>
 
-**Data & messaging**
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="46" height="46" /><br />
+      <sub><strong>React</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="46" height="46" /><br />
+      <sub><strong>Vite</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="46" height="46" /><br />
+      <sub><strong>Tailwind CSS</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" alt="Redux Toolkit" title="Redux Toolkit" width="46" height="46" /><br />
+      <sub><strong>Redux Toolkit</strong></sub>
+    </td>
+  </tr>
+</table>
 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="38" height="38" /> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/prisma-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="38" height="38" /></picture> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="38" height="38" /> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/apachekafka-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="38" height="38" /></picture></p>
+<p align="center"><strong>Data &amp; messaging</strong></p>
 
-**Tools & testing**
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="46" height="46" /><br />
+      <sub><strong>PostgreSQL</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="46" height="46" /><br />
+      <sub><strong>MySQL</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/prisma-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="46" height="46" /></picture><br />
+      <sub><strong>Prisma</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="46" height="46" /><br />
+      <sub><strong>Redis</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/apachekafka-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="46" height="46" /></picture><br />
+      <sub><strong>Kafka</strong></sub>
+    </td>
+  </tr>
+</table>
 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="38" height="38" /></p>
+<p align="center"><strong>Tools &amp; testing</strong></p>
 
-<sub>Icons: <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT). Express, Prisma, and Kafka include contrast-adjusted dark-mode variants; trademarks belong to their owners.</sub>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="46" height="46" /><br />
+      <sub><strong>Docker</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="46" height="46" /><br />
+      <sub><strong>Git</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="46" height="46" /><br />
+      <sub><strong>GitHub Actions</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="46" height="46" /><br />
+      <sub><strong>Playwright</strong></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Icons by <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT); Express, Prisma, and Kafka include dark-mode variants. Trademarks belong to their respective owners.</sub></p>
 
 ## Selected projects
 
