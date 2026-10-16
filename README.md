@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Nguyen Manh Phu Quy — Full-stack Developer" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.svg" />
+    <img src="./assets/tech-universe-hero.gif" alt="Nguyen Manh Phu Quy — Full-stack Developer. Animated Tech Universe banner with orbiting rings, stars and navy-cyan accents." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -20,9 +23,51 @@ I'm **Nguyen Manh Phu Quy**, a full-stack developer with a strong interest in ba
 
 ## Tech stack
 
-<p align="center">
-  <img src="./assets/tech-stack.svg" alt="Backend: Node.js, NestJS, TypeScript, REST, gRPC. Frontend: React, Vite, Tailwind CSS, Redux Toolkit, TanStack Query. Data: PostgreSQL, MySQL, Prisma, Redis, Kafka. Engineering: Docker, GitHub Actions, Playwright, Vitest, CI/CD." width="100%" />
-</p>
+<table>
+  <tr>
+    <th align="left" valign="middle">Backend & language</th>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" alt="Express" title="Express" height="40" width="40" />
+      <br /><sub>TypeScript · Node.js · NestJS · Express</sub>
+    </td>
+  </tr>
+  <tr>
+    <th align="left" valign="middle">Frontend</th>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" height="40" width="40" />
+      <br /><sub>React · Vite · Tailwind CSS · Redux</sub>
+    </td>
+  </tr>
+  <tr>
+    <th align="left" valign="middle">Data & messaging</th>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" height="40" width="40" />
+      <br /><sub>PostgreSQL · MySQL · Prisma · Redis · Kafka</sub>
+    </td>
+  </tr>
+  <tr>
+    <th align="left" valign="middle">Tools & testing</th>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="40" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" height="40" width="40" />
+      <br /><sub>Docker · Git · GitHub Actions · Playwright</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Technology marks via <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT). Logos belong to their respective owners.</sub>
 
 ## Selected projects
 
