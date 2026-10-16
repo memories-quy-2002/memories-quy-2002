@@ -12,7 +12,7 @@
   <a href="mailto:manhphuquynguyen@gmail.com"><strong>Email ↗</strong></a>
 </p>
 
-<p align="center"><strong>Full-stack development · Backend engineering · Open to opportunities</strong></p>
+<p align="center"><strong>Software Engineering · Full-stack development · Open to opportunities</strong></p>
 
 ## About
 
