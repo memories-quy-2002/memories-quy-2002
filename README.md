@@ -30,8 +30,9 @@ I'm **Nguyen Manh Phu Quy**, a full-stack developer with a backend-focused minds
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" alt="Express" title="Express" width="34" height="34" />
-  <sub>TypeScript · Node.js · NestJS · Express</sub>
 </p>
+
+<sub>TypeScript · Node.js · NestJS · Express</sub>
 
 **Frontend**
 
@@ -40,8 +41,9 @@ I'm **Nguyen Manh Phu Quy**, a full-stack developer with a backend-focused minds
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="34" height="34" />
-  <sub>React · Vite · Tailwind CSS · Redux Toolkit</sub>
 </p>
+
+<sub>React · Vite · Tailwind CSS · Redux Toolkit</sub>
 
 **Data & messaging**
 
@@ -51,8 +53,9 @@ I'm **Nguyen Manh Phu Quy**, a full-stack developer with a backend-focused minds
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="34" height="34" />
-  <sub>PostgreSQL · MySQL · Prisma · Redis · Kafka</sub>
 </p>
+
+<sub>PostgreSQL · MySQL · Prisma · Redis · Kafka</sub>
 
 **Developer tools**
 
@@ -61,8 +64,9 @@ I'm **Nguyen Manh Phu Quy**, a full-stack developer with a backend-focused minds
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="34" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="34" height="34" />
-  <sub>Docker · Git · GitHub Actions · Playwright</sub>
 </p>
+
+<sub>Docker · Git · GitHub Actions · Playwright</sub>
 
 <sub>Technology icons: <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT). All trademarks remain with their respective owners.</sub>
 
