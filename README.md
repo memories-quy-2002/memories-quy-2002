@@ -2,7 +2,7 @@
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/hero-mobile.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.svg" />
-    <img src="./assets/tech-universe-hero.gif" alt="Nguyen Manh Phu Quy — Full-stack Developer. Tech Universe banner." width="100%" />
+    <img src="./assets/tech-universe-hero-v2.gif" alt="Nguyen Manh Phu Quy — Full-stack Developer. Tech Universe banner." width="100%" />
   </picture>
 </p>
 
