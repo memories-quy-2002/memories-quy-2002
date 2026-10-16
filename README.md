@@ -49,34 +49,34 @@ I care about **clear architecture, practical trade-offs, meaningful tests, and c
 
 An electronics storefront and admin dashboard for product discovery, checkout, inventory, payments, and order management.
 
-**React · TypeScript · NestJS · MySQL · Firebase**
+**Stack:** React · TypeScript · NestJS · MySQL · Firebase
 
-**[Explore repository ↗](https://github.com/memories-quy-2002/digital-e-shop)** &nbsp; · &nbsp; **[Visit live site ↗](https://digital-e.vercel.app/)**
+**[GitHub ↗](https://github.com/memories-quy-2002/digital-e-shop)** &nbsp; · &nbsp; **[Live demo ↗](https://digital-e.vercel.app/)**
 
 ### 02 · Food Recipes
 *Full-stack recipe platform · Internship-origin project, independently maintained*
 
 A connected cooking workspace for recipe discovery, meal planning, shopping lists, pantry management, and cooking history.
 
-**React · NestJS · PostgreSQL · Prisma · TanStack Query**
+**Stack:** React · NestJS · PostgreSQL · Prisma · TanStack Query
 
-**[Explore repository ↗](https://github.com/memories-quy-2002/Food-recipes)** &nbsp; · &nbsp; **[Visit live site ↗](https://foodrecipes1.vercel.app/)**
+**[GitHub ↗](https://github.com/memories-quy-2002/Food-recipes)** &nbsp; · &nbsp; **[Live demo ↗](https://foodrecipes1.vercel.app/)**
 
 ### 03 · eCoffee
 *Coffee franchise supply chain · Team project at FPT Software*
 
 A service-based franchise platform. My contributions focused on the **Warehouse, Inventory, Supplier, and Franchise** backend services.
 
-**NestJS · PostgreSQL · Kafka · gRPC**
+**Stack:** NestJS · PostgreSQL · Kafka · gRPC
 
-**[Explore project ↗](https://ecoffee.cloud/)**
+**[Project website ↗](https://ecoffee.cloud/)**
 
 ### 04 · Cinema Booking
 *Cinema management · Coursework / early development*
 
 A cinema booking concept. Its source repository is **private** and the current application remains at an early scaffold stage.
 
-**React · TypeScript · Vite** · *Private repository*
+**Stack:** React · TypeScript · Vite · *Private repository*
 
 ## Current focus
 
