@@ -22,25 +22,14 @@ I work with **TypeScript, React, Node.js, and NestJS**. My experience spans fron
 
 I care about **clear architecture, practical trade-offs, meaningful tests, and continuous learning**.
 
-## Tech stack
+<p align="center">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/tech-stack-mobile.svg" />
+    <img src="./assets/tech-stack-visual.svg" alt="Centered technology stack featuring 17 actual technology logos grouped under Languages and Backend, Frontend, Data and Messaging, and Tools and Testing." width="100%" />
+  </picture>
+</p>
 
-**Languages & backend**
-
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="38" height="38" /> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/express-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" alt="Express" title="Express" width="38" height="38" /></picture></p>
-
-**Frontend**
-
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redux/redux-original.svg" alt="Redux Toolkit" title="Redux Toolkit" width="38" height="38" /></p>
-
-**Data & messaging**
-
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="38" height="38" /> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/prisma-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="38" height="38" /></picture> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="38" height="38" /> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/apachekafka-dark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="38" height="38" /></picture></p>
-
-**Tools & testing**
-
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="38" height="38" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="38" height="38" /></p>
-
-<sub>Icons: <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT). Express, Prisma, and Kafka include contrast-adjusted dark-mode variants; trademarks belong to their owners.</sub>
+<p align="center"><sub>Technology icons: <a href="https://github.com/devicons/devicon">Devicon</a> v2.17.0 (MIT); logos belong to their respective owners.</sub></p>
 
 ## Selected projects
 
